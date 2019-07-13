@@ -1,6 +1,6 @@
 # imgui-pack
 
-Just a quikly made repository created to package imgui library into DEB (but _should_ work on other systems / packages too, with emscripten you need to disable PIC flag I suppose).
+Just a quickly made repository created to package imgui library into DEB (but _should_ work on other systems / packages too, with emscripten you need to disable PIC flag I suppose).
 Checkout this repo with submodules (or clone and execute in repository `git submodule update -f --init` to fetch imgui code).
 You can use `create_deb.sh` script to compile & package it.
 
